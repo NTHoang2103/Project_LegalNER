@@ -1,0 +1,22 @@
+# Xử lý văn bản và Dữ liệu 
+python-docx
+pandas
+numpy
+datasets
+
+# Huấn luyện Mô hình AI (Deep Learning) 
+torch
+transformers
+accelerate
+tqdm
+
+# Đánh giá và Chỉ số (Metrics) 
+scikit-learn
+seqeval
+
+# Trực quan hóa kết quả (Biểu đồ) 
+matplotlib
+seaborn
+
+# Công cụ Gán nhãn
+label-studio

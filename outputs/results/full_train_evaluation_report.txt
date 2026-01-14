@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+      AMOUNT       1.00      1.00      1.00        12
+    DEADLINE       1.00      1.00      1.00         6
+  OBLIGATION       0.94      0.94      0.94        17
+       PARTY       0.97      1.00      0.98        29
+     PENALTY       1.00      1.00      1.00         7
+
+   micro avg       0.97      0.99      0.98        71
+   macro avg       0.98      0.99      0.98        71
+weighted avg       0.97      0.99      0.98        71
