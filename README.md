@@ -26,30 +26,38 @@ Sau đó để chạy các file trong project:
 
 **2.1** Tiền xử lý dữ liệu
 
--2.1.1 Chuyển dữ liệu thô thành 1 file docx sạch không còn kí tự trống và thùa
+- 2.1.1 Chuyển dữ liệu thô thành 1 file docx sạch không còn kí tự trống và thùa
+  
 python src/preprocessing/read_docx.py
 
--2.1.2 Sau chuyển thành 1 file docx sạch thì bắt đầu lọc, chọn các điều khoản và tách thành các điều khoản nhỏ riêng biệt
+- 2.1.2 Sau chuyển thành 1 file docx sạch thì bắt đầu lọc, chọn các điều khoản và tách thành các điều khoản nhỏ riêng biệt
+  
 python src/preprocessing/split_clauses.py
 
--2.1.3 Sau khi tách thành các điều khoản nhỏ riêng biệt thì chuyển thành file json và đưa vào lable studio để gán nhãn thủ công
+- 2.1.3 Sau khi tách thành các điều khoản nhỏ riêng biệt thì chuyển thành file json và đưa vào lable studio để gán nhãn thủ công
+  
 python src/preprocessing/prepapre_labelstudio.py
 
--2.1.4 Chuyển đổi file json thành file bio
+- 2.1.4 Chuyển đổi file json thành file bio
+  
 python src/preprocessing/json_to_bio.py
 
 riêng file __init__.py là file trống không cần chạy vì để chủ yếu gọi model
 
 **3.** Phân tích dữ liệu 
+
 python src/eda.py
 
 **4.** Huấn luyện mô hình 
+
 python src/model_phobert_nguyenthanhhoang.py
 
 **5.** Đánh giá của model 
+
 python src/evaluation.py
 
 **6.** Demo trích xuất thông tin và tóm tắt 
+
 python src/demo_tomtat_trichxuat.py
 
 ## Phần 3 Kết quả
@@ -58,3 +66,4 @@ kết quả sẽ được lưu trong thư mục outputs
 
 - `plots/:` chứa các biểu đồ và trực quan
 - `results/:` chứa đánh giá các thông số
+
