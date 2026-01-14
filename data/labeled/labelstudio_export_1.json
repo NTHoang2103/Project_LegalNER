@@ -1,0 +1,1557 @@
+[
+    {
+        "id": 1173,
+        "annotations": [
+            {
+                "id": 11,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 5,
+                            "end": 10,
+                            "text": "Bên B",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "cR0dNN9XpM",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 23,
+                            "end": 28,
+                            "text": "Bên A",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "wVgWC8SSSd",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 47,
+                            "end": 75,
+                            "text": "........................ VNĐ",
+                            "labels": [
+                                "AMOUNT"
+                            ]
+                        },
+                        "id": "oCbXlq9SjV",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 196,
+                            "end": 235,
+                            "text": "đảm bảm thực hiện Hợp đồng cho thuê nhà",
+                            "labels": [
+                                "OBLIGATION"
+                            ]
+                        },
+                        "id": "TyBCWTwC-5",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-12-28T12:17:22.592641Z",
+                "updated_at": "2025-12-28T12:17:22.592641Z",
+                "draft_created_at": "2025-12-28T12:14:08.619257Z",
+                "lead_time": 206.586,
+                "prediction": {},
+                "result_count": 4,
+                "unique_id": "d1ecd50b-3e2b-4a71-a397-6bd878b59077",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 1173,
+                "project": 2,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "2b41a774-labelstudio_import.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "4.1. Bên B sẽ giao cho Bên A một khoản tiền là ........................ VNĐ (bằng chữ:...............................................) ngay sau khi ký hợp đồng này. Số tiền này là tiền đặt cọc để đảm bảm thực hiện Hợp đồng cho thuê nhà."
+        },
+        "meta": {},
+        "created_at": "2025-12-28T12:12:15.471893Z",
+        "updated_at": "2025-12-28T12:17:22.644464Z",
+        "allow_skip": true,
+        "inner_id": 1,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 2,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 1174,
+        "annotations": [
+            {
+                "id": 12,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 129,
+                            "end": 134,
+                            "text": "Bên B",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "g2fc3bKlZ9",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 63,
+                            "end": 81,
+                            "text": "nghĩa vụ báo trước",
+                            "labels": [
+                                "OBLIGATION"
+                            ]
+                        },
+                        "id": "Gc5SbS1HYv",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 135,
+                            "end": 150,
+                            "text": "số tiền đặt cọc",
+                            "labels": [
+                                "AMOUNT"
+                            ]
+                        },
+                        "id": "42oaq6Cfwb",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 105,
+                            "end": 128,
+                            "text": "không phải hoàn trả lại",
+                            "labels": [
+                                "PENALTY"
+                            ]
+                        },
+                        "id": "WqMNtUs5jQ",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 9,
+                            "end": 14,
+                            "text": "Bên B",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "9F6YRxb56B",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 86,
+                            "end": 91,
+                            "text": "Bên A",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "ZeF3QSRzSp",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 96,
+                            "end": 101,
+                            "text": "Bên A",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "xILXfWlIT1",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 160,
+                            "end": 165,
+                            "text": "Bên A",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "6JIBCbLSeW",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 237,
+                            "end": 242,
+                            "text": "bên B",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "TtPtol2Pjb",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 247,
+                            "end": 252,
+                            "text": "bên A",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "g0isfvrBEm",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 274,
+                            "end": 279,
+                            "text": "Bên B",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "2UjPild0ky",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 214,
+                            "end": 232,
+                            "text": "nghĩa vụ báo trước",
+                            "labels": [
+                                "OBLIGATION"
+                            ]
+                        },
+                        "id": "axYl07CVKD",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 280,
+                            "end": 295,
+                            "text": "số tiền đặt cọc",
+                            "labels": [
+                                "AMOUNT"
+                            ]
+                        },
+                        "id": "z2qvCvWf5K",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 256,
+                            "end": 273,
+                            "text": "phải hoàn trả lại",
+                            "labels": [
+                                "PENALTY"
+                            ]
+                        },
+                        "id": "WULxX_jUWh",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 304,
+                            "end": 353,
+                            "text": "bồi thường thêm một khoản bằng chính tiền đặt cọc",
+                            "labels": [
+                                "PENALTY"
+                            ]
+                        },
+                        "id": "kpAWZ0y2D5",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-12-29T07:10:53.810798Z",
+                "updated_at": "2025-12-29T07:10:53.810798Z",
+                "draft_created_at": "2025-12-28T13:31:09.149330Z",
+                "lead_time": 522.777,
+                "prediction": {},
+                "result_count": 15,
+                "unique_id": "05f14834-ae70-4be4-b6bb-683cc6de07a7",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 1174,
+                "project": 2,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "2b41a774-labelstudio_import.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "4.2. Nếu Bên B đơn phương chấm dứt hợp đồng mà không thực hiện nghĩa vụ báo trước tới Bên A thì Bên A sẽ không phải hoàn trả lại Bên B số tiền đặt cọc này.\nNếu Bên A đơn phương chấm dứt hợp đồng mà không thực hiện nghĩa vụ báo trước tới bên B thì bên A sẽ phải hoàn trả lại Bên B số tiền đặt cọc và phải bồi thường thêm một khoản bằng chính tiền đặt cọc."
+        },
+        "meta": {},
+        "created_at": "2025-12-28T12:12:15.472914Z",
+        "updated_at": "2025-12-29T07:10:53.855012Z",
+        "allow_skip": true,
+        "inner_id": 2,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 2,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 1175,
+        "annotations": [
+            {
+                "id": 13,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 22,
+                            "end": 27,
+                            "text": "Bên B",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "0B-MPE-XZR",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 76,
+                            "end": 81,
+                            "text": "Bên B",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "SGAR3hzSB-",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 127,
+                            "end": 132,
+                            "text": "Bên A",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "wVXKqAGEAc",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 137,
+                            "end": 142,
+                            "text": "Bên A",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "uju7Xm0WqG",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 5,
+                            "end": 17,
+                            "text": "Tiền đặt cọc",
+                            "labels": [
+                                "AMOUNT"
+                            ]
+                        },
+                        "id": "NHnzSByQqu",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 31,
+                            "end": 70,
+                            "text": "không được dùng để thanh toán tiền thuê",
+                            "labels": [
+                                "OBLIGATION"
+                            ]
+                        },
+                        "id": "7KqTiJ510W",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 152,
+                            "end": 173,
+                            "text": "khấu trừ tiền đặt cọc",
+                            "labels": [
+                                "PENALTY"
+                            ]
+                        },
+                        "id": "JWAhCU9SLN",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 184,
+                            "end": 215,
+                            "text": "các chi phí khắc phục thiệt hại",
+                            "labels": [
+                                "AMOUNT"
+                            ]
+                        },
+                        "id": "DdXFuxn9ai",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 264,
+                            "end": 271,
+                            "text": "Các Bên",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "dswcpuHvYe",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 227,
+                            "end": 255,
+                            "text": "Mức chi phí bù đắp thiệt hại",
+                            "labels": [
+                                "AMOUNT"
+                            ]
+                        },
+                        "id": "BUjKCLx9Vp",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-12-29T07:14:38.858875Z",
+                "updated_at": "2025-12-29T07:14:38.858875Z",
+                "draft_created_at": "2025-12-29T07:11:32.398279Z",
+                "lead_time": 201.525,
+                "prediction": {},
+                "result_count": 10,
+                "unique_id": "1587583c-7422-48d6-816f-614868c8ab67",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 1175,
+                "project": 2,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "2b41a774-labelstudio_import.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "4.3. Tiền đặt cọc của Bên B sẽ không được dùng để thanh toán tiền thuê. Nếu Bên B vi phạm Hợp Đồng làm phát sinh thiệt hại cho Bên A thì Bên A có quyền khấu trừ tiền đặt cọc để bù đắp các chi phí khắc phục thiệt hại phát sinh. Mức chi phí bù đắp thiệt hại sẽ được Các Bên thống nhất bằng văn bản."
+        },
+        "meta": {},
+        "created_at": "2025-12-28T12:12:15.472914Z",
+        "updated_at": "2025-12-29T07:14:38.903301Z",
+        "allow_skip": true,
+        "inner_id": 3,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 2,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 1176,
+        "annotations": [
+            {
+                "id": 14,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 77,
+                            "end": 82,
+                            "text": "Bên A",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "z8DTAnAzWe",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 99,
+                            "end": 104,
+                            "text": "Bên B",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "yq_LBNh1rt",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 105,
+                            "end": 120,
+                            "text": "số tiền đặt cọc",
+                            "labels": [
+                                "AMOUNT"
+                            ]
+                        },
+                        "id": "5pajH5WGUH",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 132,
+                            "end": 182,
+                            "text": "khấu trừ khoản tiền chi phí để khắc phục thiệt hại",
+                            "labels": [
+                                "PENALTY"
+                            ]
+                        },
+                        "id": "OKNMRhwkLa",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 5,
+                            "end": 76,
+                            "text": "Vào thời điểm kết thúc thời hạn thuê hoặc kể từ ngày chấm dứt Hợp đồng,",
+                            "labels": [
+                                "DEADLINE"
+                            ]
+                        },
+                        "id": "4fSWz7WtKP",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-12-29T07:16:43.331463Z",
+                "updated_at": "2025-12-29T07:33:58.830719Z",
+                "draft_created_at": "2025-12-29T07:15:33.578334Z",
+                "lead_time": 146.29999999999998,
+                "prediction": {},
+                "result_count": 5,
+                "unique_id": "90c2c94e-f3df-40d4-aa59-186d48965372",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 1176,
+                "project": 2,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "2b41a774-labelstudio_import.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "4.4. Vào thời điểm kết thúc thời hạn thuê hoặc kể từ ngày chấm dứt Hợp đồng, Bên A sẽ hoàn lại cho Bên B số tiền đặt cọc sau khi đã khấu trừ khoản tiền chi phí để khắc phục thiệt hại (nếu có)."
+        },
+        "meta": {},
+        "created_at": "2025-12-28T12:12:15.472914Z",
+        "updated_at": "2025-12-29T07:33:58.897379Z",
+        "allow_skip": true,
+        "inner_id": 4,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 2,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 1177,
+        "annotations": [
+            {
+                "id": 15,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 5,
+                            "end": 10,
+                            "text": "Bên A",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "NqBffDc6Ec",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 23,
+                            "end": 28,
+                            "text": "Bên B",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "JSGicR_HVQ",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 11,
+                            "end": 22,
+                            "text": "cam kết cho",
+                            "labels": [
+                                "OBLIGATION"
+                            ]
+                        },
+                        "id": "C68HD0feZj",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 29,
+                            "end": 33,
+                            "text": "thuê",
+                            "labels": [
+                                "OBLIGATION"
+                            ]
+                        },
+                        "id": "xMQQ6uZzvF",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 51,
+                            "end": 96,
+                            "text": "thời hạn là ......... năm kể từ ngày bàn giao",
+                            "labels": [
+                                "DEADLINE"
+                            ]
+                        },
+                        "id": "nmuRtHMCel",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-12-29T17:14:26.915358Z",
+                "updated_at": "2025-12-29T17:14:26.915358Z",
+                "draft_created_at": "2025-12-29T16:51:39.793538Z",
+                "lead_time": 1375.92,
+                "prediction": {},
+                "result_count": 5,
+                "unique_id": "d809a467-3ee2-42bd-940e-f3521f4970ac",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 1177,
+                "project": 2,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "87374441-labelstudio_import_1.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "3.1. Bên A cam kết cho Bên B thuê tài sản thuê với thời hạn là ......... năm kể từ ngày bàn giao Tài sản thuê;"
+        },
+        "meta": {},
+        "created_at": "2025-12-29T16:48:26.942942Z",
+        "updated_at": "2025-12-29T17:14:26.977057Z",
+        "allow_skip": true,
+        "inner_id": 5,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 2,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 1178,
+        "annotations": [
+            {
+                "id": 16,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 5,
+                            "end": 31,
+                            "text": "Hết thời hạn thuê nêu trên",
+                            "labels": [
+                                "DEADLINE"
+                            ]
+                        },
+                        "id": "PkjK9uNBLq",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 36,
+                            "end": 41,
+                            "text": "bên B",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "835WbhxnAM",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 74,
+                            "end": 79,
+                            "text": "Bên A",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "VqHq_vgCnb",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 80,
+                            "end": 96,
+                            "text": "phải ưu tiên cho",
+                            "labels": [
+                                "OBLIGATION"
+                            ]
+                        },
+                        "id": "h74v36r0jl",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 103,
+                            "end": 116,
+                            "text": "tiếp tục thuê",
+                            "labels": [
+                                "OBLIGATION"
+                            ]
+                        },
+                        "id": "IDn85-QNDV",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 97,
+                            "end": 102,
+                            "text": "Bên B",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "fjY179XlXo",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-12-29T17:17:00.465119Z",
+                "updated_at": "2025-12-29T17:17:00.465119Z",
+                "draft_created_at": "2025-12-29T17:15:53.420659Z",
+                "lead_time": 147.873,
+                "prediction": {},
+                "result_count": 6,
+                "unique_id": "aa2810b0-a172-4d7e-b961-552082d898ce",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 1178,
+                "project": 2,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "87374441-labelstudio_import_1.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "3.2. Hết thời hạn thuê nêu trên nếu bên B có nhu cầu tiếp tục sử dụng thì Bên A phải ưu tiên cho Bên B tiếp tục thuê."
+        },
+        "meta": {},
+        "created_at": "2025-12-29T16:48:26.943941Z",
+        "updated_at": "2025-12-29T17:17:00.504219Z",
+        "allow_skip": true,
+        "inner_id": 6,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 2,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 1179,
+        "annotations": [
+            {
+                "id": 17,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 4,
+                            "end": 17,
+                            "text": "Tiền thuê nhà",
+                            "labels": [
+                                "AMOUNT"
+                            ]
+                        },
+                        "id": "zCFkHk4e12",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 68,
+                            "end": 104,
+                            "text": ".......................... VNĐ\/tháng",
+                            "labels": [
+                                "AMOUNT"
+                            ]
+                        },
+                        "id": "Pb4R9E4__7",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-12-29T17:18:55.415740Z",
+                "updated_at": "2025-12-29T17:18:55.415740Z",
+                "draft_created_at": "2025-12-29T17:18:45.527377Z",
+                "lead_time": 110.468,
+                "prediction": {},
+                "result_count": 2,
+                "unique_id": "813650cf-f6b7-41d1-bde0-b18949b9c97c",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 1179,
+                "project": 2,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "87374441-labelstudio_import_1.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "5.1 Tiền thuê nhà đối với diện tích thuê nêu tại mục 1.1 Điều 1 là: .......................... VNĐ\/tháng (Bằng chữ:...........................................)"
+        },
+        "meta": {},
+        "created_at": "2025-12-29T16:48:26.943941Z",
+        "updated_at": "2025-12-29T17:18:55.454732Z",
+        "allow_skip": true,
+        "inner_id": 7,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 2,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 1180,
+        "annotations": [
+            {
+                "id": 18,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 99,
+                            "end": 104,
+                            "text": "bên B",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "s2xLXSftZ-",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 156,
+                            "end": 161,
+                            "text": "Bên B",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "nvRs7PWT5k",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 32,
+                            "end": 77,
+                            "text": "chi phí khác như tiền điện, nước, vệ sinh....",
+                            "labels": [
+                                "AMOUNT"
+                            ]
+                        },
+                        "id": "ujIvlOFm4-",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 93,
+                            "end": 98,
+                            "text": "sẽ do",
+                            "labels": [
+                                "OBLIGATION"
+                            ]
+                        },
+                        "id": "ZoQ2kVxUIW",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 105,
+                            "end": 108,
+                            "text": "trả",
+                            "labels": [
+                                "OBLIGATION"
+                            ]
+                        },
+                        "id": "MhSNj6D3Zg",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-12-29T17:26:33.433201Z",
+                "updated_at": "2025-12-29T17:26:33.433201Z",
+                "draft_created_at": "2025-12-29T17:22:03.359680Z",
+                "lead_time": 381.2,
+                "prediction": {},
+                "result_count": 5,
+                "unique_id": "9e157fde-87ab-4e33-9205-cb75df740c41",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 1180,
+                "project": 2,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "87374441-labelstudio_import_1.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "5.2 Tiền thuê nhà không bao gồm chi phí khác như tiền điện, nước, vệ sinh.... Khoản tiền này sẽ do bên B trả theo khối lượng, công suất sử dụng thực tế của Bên B hàng tháng, được tính theo đơn giá của nhà nước."
+        },
+        "meta": {},
+        "created_at": "2025-12-29T16:48:26.943941Z",
+        "updated_at": "2025-12-29T17:26:33.479372Z",
+        "allow_skip": true,
+        "inner_id": 8,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 2,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 1181,
+        "annotations": [
+            {
+                "id": 19,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 59,
+                            "end": 98,
+                            "text": "được thanh toán theo 01 (một) tháng\/lần",
+                            "labels": [
+                                "OBLIGATION"
+                            ]
+                        },
+                        "id": "HamwqtwXX9",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 99,
+                            "end": 127,
+                            "text": "vào ngày 05 (năm) hàng tháng",
+                            "labels": [
+                                "DEADLINE"
+                            ]
+                        },
+                        "id": "Xh7TyfCE5w",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 151,
+                            "end": 156,
+                            "text": "bên B",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "NPsmbUvW1O",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 157,
+                            "end": 170,
+                            "text": "tự thanh toán",
+                            "labels": [
+                                "OBLIGATION"
+                            ]
+                        },
+                        "id": "_NbhzzLUH-",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 208,
+                            "end": 224,
+                            "text": "khi được yêu cầu",
+                            "labels": [
+                                "DEADLINE"
+                            ]
+                        },
+                        "id": "RLU7kd2mOt",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 256,
+                            "end": 294,
+                            "text": "được thực hiện bằng đồng tiền Việt Nam",
+                            "labels": [
+                                "OBLIGATION"
+                            ]
+                        },
+                        "id": "IHtG2IIYZG",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 295,
+                            "end": 337,
+                            "text": "theo hình thức trả trực tiếp bằng tiền mặt",
+                            "labels": [
+                                "OBLIGATION"
+                            ]
+                        },
+                        "id": "cxAagmnqCx",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-12-29T17:31:33.536983Z",
+                "updated_at": "2025-12-29T17:31:33.536983Z",
+                "draft_created_at": "2025-12-29T17:28:55.635941Z",
+                "lead_time": 296.616,
+                "prediction": {},
+                "result_count": 7,
+                "unique_id": "a081a1a9-2b9d-482a-af6a-6e09df090a5c",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 1181,
+                "project": 2,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "87374441-labelstudio_import_1.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "Điều 6. Phương thức thanh toán tiền thuê nhà\nTiền thuê nhà được thanh toán theo 01 (một) tháng\/lần vào ngày 05 (năm) hàng tháng.\nCác chi phí khác được bên B tự thanh toán với các cơ quan, đơn vị có liên quan khi được yêu cầu.\nViệc thanh toán tiền thuê nhà được thực hiện bằng đồng tiền Việt Nam theo hình thức trả trực tiếp bằng tiền mặt."
+        },
+        "meta": {},
+        "created_at": "2025-12-29T16:48:26.943941Z",
+        "updated_at": "2025-12-29T17:31:33.578691Z",
+        "allow_skip": true,
+        "inner_id": 9,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 2,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 1182,
+        "annotations": [
+            {
+                "id": 20,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 74,
+                            "end": 81,
+                            "text": "Hai Bên",
+                            "labels": [
+                                "OBLIGATION"
+                            ]
+                        },
+                        "id": "UcgfSY6qh1",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 162,
+                            "end": 169,
+                            "text": "bên kia",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "iL5tLtllW6",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 130,
+                            "end": 157,
+                            "text": "phải thông báo bằng văn bản",
+                            "labels": [
+                                "OBLIGATION"
+                            ]
+                        },
+                        "id": "E6ZV2qpA4t",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 170,
+                            "end": 224,
+                            "text": "trước 30 (ba mươi) ngày so với ngày mong muốn chấm dứt",
+                            "labels": [
+                                "DEADLINE"
+                            ]
+                        },
+                        "id": "Bqk10YBsQz",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 240,
+                            "end": 247,
+                            "text": "Hai Bên",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "sZdCD-tpsg",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 287,
+                            "end": 294,
+                            "text": "Bên kia",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "Hoop0TCYPW",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 322,
+                            "end": 328,
+                            "text": "bên đó",
+                            "labels": [
+                                "PARTY"
+                            ]
+                        },
+                        "id": "g18rPMXnwA",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 264,
+                            "end": 282,
+                            "text": "nghĩa vụ thông báo",
+                            "labels": [
+                                "OBLIGATION"
+                            ]
+                        },
+                        "id": "JL-iZeR8Xx",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 299,
+                            "end": 317,
+                            "text": "sẽ phải bồi thường",
+                            "labels": [
+                                "PENALTY"
+                            ]
+                        },
+                        "id": "GfGxEapgoc",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 423,
+                            "end": 462,
+                            "text": "do việc chấm dứt Hợp đồng trái quy định",
+                            "labels": [
+                                "PENALTY"
+                            ]
+                        },
+                        "id": "xUwZpatvgy",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 329,
+                            "end": 390,
+                            "text": "một khoản tiền thuê tương đương với thời gian không thông báo",
+                            "labels": [
+                                "AMOUNT"
+                            ]
+                        },
+                        "id": "c3LPWJZ6bC",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 394,
+                            "end": 422,
+                            "text": "các thiệt hại khác phát sinh",
+                            "labels": [
+                                "AMOUNT"
+                            ]
+                        },
+                        "id": "jUkCbv4NV7",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-12-29T17:39:57.185771Z",
+                "updated_at": "2025-12-29T17:39:57.185771Z",
+                "draft_created_at": "2025-12-29T17:35:47.792771Z",
+                "lead_time": 501.238,
+                "prediction": {},
+                "result_count": 12,
+                "unique_id": "356aa2c9-32c2-4075-bf49-bf4a1943bd0d",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 1182,
+                "project": 2,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "87374441-labelstudio_import_1.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "Điều 9. Đơn phương chấm dứt hợp đồng thuê nhà:\nTrong trường hợp một trong Hai Bên muốn đơn phương chấm dứt Hợp đồng trước hạn thì phải thông báo bằng văn bản cho bên kia trước 30 (ba mươi) ngày so với ngày mong muốn chấm dứt. Nếu một trong Hai Bên không thực hiện nghĩa vụ thông báo cho Bên kia thì sẽ phải bồi thường cho bên đó một khoản tiền thuê tương đương với thời gian không thông báo và các thiệt hại khác phát sinh do việc chấm dứt Hợp đồng trái quy định."
+        },
+        "meta": {},
+        "created_at": "2025-12-29T16:48:26.943941Z",
+        "updated_at": "2025-12-29T17:39:57.228356Z",
+        "allow_skip": true,
+        "inner_id": 10,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 2,
+        "updated_by": 1,
+        "comment_authors": []
+    }
+]
