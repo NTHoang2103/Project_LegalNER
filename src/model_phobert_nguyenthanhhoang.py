@@ -73,7 +73,7 @@ def load_bio(path):
 
     return Dataset.from_dict({"tokens": sentences, "labels": labels})
 
-print("📥 Đang tải TOÀN BỘ dữ liệu từ file BIO để huấn luyện...")
+print("Đang tải TOÀN BỘ dữ liệu từ file BIO để huấn luyện")
 train_dataset = load_bio(BIO_PATH)
 
 # 3. TOKENIZER & ALIGN 
@@ -115,7 +115,7 @@ def tokenize_and_align_manual(examples):
 
     return {"input_ids": all_input_ids, "attention_mask": all_masks, "labels": all_labels}
 
-print("⚙️ Đang xử lý tiền dữ liệu...")
+print("Đang xử lý tiền dữ liệu")
 train_dataset = train_dataset.map(tokenize_and_align_manual, batched=True)
 
 # 4. MODEL
@@ -189,5 +189,6 @@ print(report)
 
 with open(RESULTS_DIR / "full_train_evaluation_report.txt", "w", encoding="utf-8") as f:
     f.write(report)
+
 
 print("HOÀN TẤT HUẤN LUYỆN")
